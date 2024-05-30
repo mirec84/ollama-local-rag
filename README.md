@@ -1,4 +1,4 @@
-# Local Llama 3 UI
+# Local Llama 3 UI with RAG functionality
 Chat UI with local offline RAG functionality for using Llama3 Model.
 
 ## Architecture
